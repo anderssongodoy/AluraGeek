@@ -1,0 +1,141 @@
+{
+  "starwars": [
+    {
+      "id": 1,
+      "name": "Tostadora Darth Vader",
+      "price": "500.00",
+      "description": "Tostadora original de la colección de primavera de star wars",
+      "img": "https://controlpublicidad.com/uploads/2015/12/darthvader-080848.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Despertador Estrella de la muerte",
+      "price": "200.00",
+      "description": "Despertadora oficial de la estrella de la muerte",
+      "img": "https://imagenes.elpais.com/resizer/k1woT9oUblROGJUEpKpQnRD_iNk=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/FYCQJGAO2VXSAGMIFXAA2JFXWE.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cafetera R2D2",
+      "price": "150.00",
+      "description": "Cafetera hecha con la figura de R2D2",
+      "img": "https://mymodernmet.com/wp/wp-content/uploads/2019/11/R2-D2-Coffee-Press-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Despertador Estrella de la muerte",
+      "price": "200.00",
+      "description": "Despertadora oficial de la estrella de la muerte",
+      "img": "https://imagenes.elpais.com/resizer/k1woT9oUblROGJUEpKpQnRD_iNk=/414x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/FYCQJGAO2VXSAGMIFXAA2JFXWE.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Auriculares Mandalorianos",
+      "price": "300.00",
+      "description": "Auricular para pc con microfono y diseño del mandaloriano. Gratis un llavero",
+      "img": "https://gestion.pe/resizer/MMT7Z0hwbi3sHz98y3hK90dJdck=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/G3LEOJBPD5FQ7OOPD7DS26LLWM.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Waflera de la Estrella de la muerte",
+      "price": "250.00",
+      "description": "Waflera con el diseño de la estrella de la muerte",
+      "img": "https://www.tuexperto.com/wp-content/uploads/2017/05/Death-Star-waffles.jpg"
+    },
+    {
+      "img": "No hay url",
+      "name": "Prueba",
+      "price": "Prueba",
+      "description": "Prueba",
+      "id": 7
+    }
+  ],
+  "consolas": [
+    {
+      "id": 1,
+      "name": "Nintendo Switch OLED",
+      "price": "3000.00",
+      "description": "Consola Nintendo Switch OLED Blanco",
+      "img": "https://smartmoveperu.com/wp-content/uploads/2022/05/Consola-nintendo-switch-oled-blanco-peru.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Play Station 4 Pro",
+      "price": "2500.00",
+      "description": "Consola PS4 Pro con mando incluido",
+      "img": "https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/711719524144_2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "NES Original",
+      "price": "300.00",
+      "description": "NES original a un cómodo precio",
+      "img": "https://www.enter.co/wp-content/uploads/2017/01/nintendo28.jpg"
+    },
+    {
+      "id": 4,
+      "name": "PS5 Spiderman",
+      "price": "4300.00",
+      "description": "Consola PS5 Edicióon Limitada",
+      "img": "https://blog.es.playstation.com/tachyon/sites/14/2023/07/24bbaed190443ef0d278f3d5a0fe44af2279cd7b.png"
+    },
+    {
+      "id": 5,
+      "name": "Xbox Series X",
+      "price": "4000.00",
+      "description": "Xbox Series X de 1TB",
+      "img": "https://promart.vteximg.com.br/arquivos/ids/6812699-1000-1000/image-c08461a6eb414bca9fb3c230c4649814.jpg"
+    },
+    {
+      "id": 6,
+      "name": "SNES Original",
+      "price": "300.00",
+      "description": "SNES original con mando incluido",
+      "img": "https://2.bp.blogspot.com/-B0wv5thNC34/VD-saSNfBgI/AAAAAAAAACs/PzLrh1Zgvgw/s1600/SNES-USA.png"
+    }
+  ],
+  "diversos": [
+    {
+      "id": 1,
+      "name": "Control de Xbox",
+      "price": "100.00",
+      "description": "Control para Xbox",
+      "img": "https://plazavea.vteximg.com.br/arquivos/categor%C3%ADa-VIDEOJUEGOS-MandoXbox-D.png"
+    },
+    {
+      "id": 2,
+      "name": "Camiseta de PS",
+      "price": "50.00",
+      "description": "Camiseta original de Play Station",
+      "img": "https://www.accesoriosmexicali.com/cdn/shop/products/16815133_hi_2048x2048.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Almohada de control de xbox",
+      "price": "120.00",
+      "description": "Almohada de control de xbox tamaño 120x120",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_809033-MLM54954024255_042023-O.webp"
+    },
+    {
+      "id": 4,
+      "name": "Control Personalizado de Galaxia Fornite",
+      "price": "200.00",
+      "description": "Control Personalizado de Fornite para PS4",
+      "img": "https://racstoreperu.com/wp-content/uploads/2022/06/RAC00403_1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Control Personalizado God of Wars",
+      "price": "200.00",
+      "description": "Control Personalizado de God of Wars",
+      "img": "https://racstoreperu.com/wp-content/uploads/2022/06/RAC00405_1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Llavero de Toad",
+      "price": "20.00",
+      "description": "Llavero original de Nintendo Toad",
+      "img": "https://lacamaleona.com/cdn/shop/products/Llavero-Mario-Mushroom_1200x1200.png"
+    }
+  ]
+}
